@@ -6,7 +6,7 @@ payload = "{\"text\" : \"Ma founded Alibaba in Hangzhou with investments from So
 headers = {
     'content-type': "application/json",
     'accept': "application/json",
-    'authorization': "20e66461: 20aca28bd8ca9e809e3c41ca76edc9ee "
+    'authorization': " "
     }
 
 response = requests.request("POST", url, data=payload, headers=headers)
