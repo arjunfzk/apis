@@ -31,7 +31,7 @@ params = {
 };
  
 # set your access key, secret keyword and target URL 
-access_key = "aa1626836d09ccf550107705e5ae6c35"
+access_key = ""
 secret_keyword = "YOUR_SECRET_KEYWORD"
 url = "www.cnn.com"
  
